@@ -53,3 +53,12 @@ ENV/
 # Backup and large files
 .git.bak/
 *.pack
+
+
+# Protected files (AGENTS.md Rule 10)
+mom_test_results.md
+mom_test_script.md
+ideas.md
+architecture_notes.md
+decision.md
+SESSION_SUMMARY.md
